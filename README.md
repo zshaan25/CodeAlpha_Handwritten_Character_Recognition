@@ -17,9 +17,9 @@ To engineer a spatial deep learning model capable of processing grayscale image 
 The model leverages the **MNIST digits dataset** (pre-loaded via TensorFlow), consisting of 60,000 training images and 10,000 testing images of 28x28 grayscale handwritten digits. The input tensors are normalized to a `[0, 1]` range prior to training.
 
 ## 🚀 Execution Guide
-1. Launch the `handwritten_character_recognition.ipynb` notebook within Google Colab.
+1. Launch the `Handwritten_Character_Recognition.ipynb` notebook within Google Colab.
 2. Select a GPU hardware accelerator (e.g., T4 GPU) via the runtime options for optimal performance.
-3. Run the cells sequentially to fetch data, execute preprocessing pipelines, train the CNN architecture, and render live visual predictions.
+3. Run the cell to fetch data, execute preprocessing pipelines, train the CNN architecture, and render live visual predictions.
 
 ---
 *Developed by Muhammad Zeeshan | AI/ML Engineer*
